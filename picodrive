@@ -1,0 +1,6 @@
+title=picodrive
+exec=/mnt/SDCARD/Apps/picoarch/picoarch
+params=/mnt/SDCARD/Apps/picoarch/picodrive_libretro.so
+selectordir=/mnt/SDCARD/Roms/GG
+selectorfilter=gg,smd,bin,md,32x,zip
+selectorelement=1
