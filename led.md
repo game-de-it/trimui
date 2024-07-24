@@ -1,0 +1,1 @@
+# trimui smart pro のLEDをピカピカさせたい
