@@ -5,3 +5,4 @@
 4. [TRIMUI BRICK ショルダーボタンの3Dモデル(STL)](https://github.com/game-de-it/trimui/releases/tag/trimui_brick_shoulder-button_v1.0)
 5. [TRIMUI BRICK 起動ロゴをPS1のブートムービーに変更するスクリプト(不安定になるため非推奨です (^^;)](https://github.com/game-de-it/trimui/releases/tag/PS1_bootlogo)
 6. [TRIMUI BRICK Cross-MixOSでSteelAssaultを動作させるスクリプト](https://github.com/game-de-it/trimui/releases/tag/trimui_brick_CrossMixOS_SteelAssault)
+7. [TRIMUI BRICK KNULLIで起動ロゴをPS1のブートムービーに変更するスクリプト(こちらは安定しています)](https://github.com/game-de-it/trimui/releases/tag/KNULLI_brick_PS_logo)
